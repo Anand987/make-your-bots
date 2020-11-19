@@ -1,4 +1,4 @@
-In the project directory, you can run:
+### 'HELLO THERE WE ARE BOT BUILDERS'
 
 ### `npm start`
 
